@@ -1,6 +1,6 @@
-# Tailwind Landing Page
+# BootStrap Landing Page
 
-The goal of building this project is to practice using tailwind css.
+The goal of building this project is to practice using bootstrap css.
 
 ## Table of contents
 
